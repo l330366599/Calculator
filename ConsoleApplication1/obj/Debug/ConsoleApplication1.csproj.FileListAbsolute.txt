@@ -1,0 +1,5 @@
+D:\practice\practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\practice\practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\practice\practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\practice\practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\practice\practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

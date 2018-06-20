@@ -1,0 +1,16 @@
+D:\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\Calculator\Calculator\Calculator\bin\Debug\Calculator.application
+D:\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.application
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Calculator\Calculator\obj\Debug\Calculator.pdb
